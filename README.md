@@ -43,7 +43,7 @@ Explore integrating OPNsense with external logging and monitoring tools (e.g., E
 <img width="1470" alt="opnsense7" src="https://github.com/user-attachments/assets/4fd6a4e0-b4dc-49a5-a68b-3ec939ff87b2">
 <img width="1470" alt="opnsense7" src="https://github.com/user-attachments/assets/39993f5c-45fa-4d8b-933a-c63487cd4343">
 <img width="1470" alt="opnsense8" src="https://github.com/user-attachments/assets/b6469f6c-245a-4295-9da6-7a7b550b4289">
-
+<img width="1470" alt="opnsense8" src="https://github.com/user-attachments/assets/a2def5f6-8a3b-4869-9a07-cf1a9fc48493">
 <img width="1470" alt="opnsense9" src="https://github.com/user-attachments/assets/d7454ecd-e8b3-4c2d-a369-9b15bd9f804b">
 <img width="1470" alt="opnsense10" src="https://github.com/user-attachments/assets/65071d05-2c0b-4ef2-8767-e871738d6046">
 
